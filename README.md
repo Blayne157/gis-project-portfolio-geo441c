@@ -14,5 +14,5 @@ Blayne Myrick
 - [Understanding map coordinates](https://colab.research.google.com/drive/19QkDlgGppwbydZbafeA-rJIW_Uek302b)
 
 # **Web Mapping**
-- [Land surface temperature of golf courses in Palm Springs, CA and neighboring desert area](https://miamioh.maps.arcgis.com/apps/instantgallery/index.html?tab=myApps)
+- [Land surface temperature of golf courses in Palm Springs, CA and neighboring desert area](https://miamioh.maps.arcgis.com/apps/instant/compare/index.html?appid=23f92238c56648c1b699b58a6c744f25)
 
