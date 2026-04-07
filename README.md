@@ -16,3 +16,7 @@ Blayne Myrick
 ## **Web Mapping**
 
 - This [StoryMap collection](https://storymaps.arcgis.com/collections/cda7fecfc3354d47b20bf07d06a08626) contains all maps I made using ArcGIS Online
+
+## Raster Analysis
+
+- https://github.com/Blayne157/gis-project-portfolio-geo441c/blob/main/week_10_raster_analysis_Thomas_fire.ipynb
