@@ -19,11 +19,9 @@ Blayne Myrick
 - [Change in NDVI](https://github.com/Blayne157/gis-project-portfolio-geo441c/blob/main/Raster-Analysis/week_10_raster_analysis_Thomas_fire.ipynb)
 
 ## Spatial Analysis
-- [Cholera spread in Soho, London](https://colab.research.google.com/drive/1JKsUYdVIRBKEptATmmYq4M-jU1d7crJ-#scrollTo=6tKmlbnzny_I)
+- [Cholera spread in Soho, London](https://github.com/Blayne157/gis-project-portfolio-geo441c/blob/main/Spatial-Analysis/Copy_of_week_11_assignment_template.ipynb)
 
 
 ## Web Mapping
 
 - This [StoryMap collection](https://storymaps.arcgis.com/collections/cda7fecfc3354d47b20bf07d06a08626) contains all maps I made using ArcGIS Online
-
-- https://github.com/Blayne157/gis-project-portfolio-geo441c/blob/main/week_10_raster_analysis_Thomas_fire.ipynb
