@@ -7,14 +7,19 @@ Blayne Myrick
 - Students can build a repository like this as their project portfolio
 
 ## Basic Mapping
-- [First map in ArcGIS Pro](https://colab.research.google.com/drive/15ZDbipOUDh79izu0vrDthbMilzJJX8oE)
+- [First map in ArcGIS Pro](https://github.com/Blayne157/gis-project-portfolio-geo441c/blob/main/basic-mapping/first-arcgis-mapping.ipynb)
 - [Multiple map frames in one map layout](https://colab.research.google.com/drive/1z8sv-8ljGnavPafEvnNdghSkwnZzVICz#scrollTo=GSCJLg-YkOIx)
 - [Understanding map coordinates](https://colab.research.google.com/drive/19QkDlgGppwbydZbafeA-rJIW_Uek302b)
 
 ## Vector Analysis
-- [Age Index Calculation]()
+- [Age Index Calculation](https://github.com/Blayne157/gis-project-portfolio-geo441c/blob/main/Vector-Analysis/age-index-mapping.ipynb)
+- ![Hotspot Map](https://github.com/Blayne157/gis-project-portfolio-geo441c/blob/main/Vector-Analysis/Hotspot-Map.png)
 
 ## Raster Analysis
+- [Change in NDVI](https://github.com/Blayne157/gis-project-portfolio-geo441c/blob/main/Raster-Analysis/week_10_raster_analysis_Thomas_fire.ipynb)
+
+## Spatial Analysis
+- [Cholera spread in Soho, London](https://colab.research.google.com/drive/1JKsUYdVIRBKEptATmmYq4M-jU1d7crJ-#scrollTo=6tKmlbnzny_I)
 
 
 ## Web Mapping
