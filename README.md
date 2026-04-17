@@ -7,7 +7,7 @@ Blayne Myrick
 - Students can build a repository like this as their project portfolio
 
 ## Basic Mapping
-- [First map in ArcGIS Pro](https://colab.research.google.com/drive/15ZDbipOUDh79izu0vrDthbMilzJJX8oE)
+- [First map in ArcGIS Pro](https://github.com/Blayne157/gis-project-portfolio-geo441c/blob/main/basic-mapping/first-arcgis-mapping.ipynb)
 - [Multiple map frames in one map layout](https://colab.research.google.com/drive/1z8sv-8ljGnavPafEvnNdghSkwnZzVICz#scrollTo=GSCJLg-YkOIx)
 - [Understanding map coordinates](https://colab.research.google.com/drive/19QkDlgGppwbydZbafeA-rJIW_Uek302b)
 
