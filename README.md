@@ -8,7 +8,7 @@ Blayne Myrick
 
 ## Basic Mapping
 - [First map in ArcGIS Pro](https://github.com/Blayne157/gis-project-portfolio-geo441c/blob/main/basic-mapping/first-arcgis-mapping.ipynb)
-- [Multiple map frames in one map layout](https://colab.research.google.com/drive/1z8sv-8ljGnavPafEvnNdghSkwnZzVICz#scrollTo=GSCJLg-YkOIx)
+- [Multiple map frames in one map layout](https://github.com/Blayne157/gis-project-portfolio-geo441c/blob/main/Basic-mapping/Copy_of_geo441_541c_sp26_week_02_assignment_template.ipynb)
 - [Understanding map coordinates](https://colab.research.google.com/drive/19QkDlgGppwbydZbafeA-rJIW_Uek302b)
 
 ## Vector Analysis
