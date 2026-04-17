@@ -12,7 +12,7 @@ Blayne Myrick
 - [Understanding map coordinates](https://colab.research.google.com/drive/19QkDlgGppwbydZbafeA-rJIW_Uek302b)
 
 ## Vector Analysis
-- [Age Index Calculation]()
+- [Age Index Calculation](https://github.com/Blayne157/gis-project-portfolio-geo441c/blob/main/Vector-Analysis/age-index-mapping.ipynb)
 - ![Hotspot Map](https://github.com/Blayne157/gis-project-portfolio-geo441c/blob/main/Vector-Analysis/Hotspot-Map.png)
 
 ## Raster Analysis
