@@ -13,6 +13,7 @@ Blayne Myrick
 
 ## Vector Analysis
 - [Age Index Calculation]()
+- ![Hotspot Map](https://github.com/Blayne157/gis-project-portfolio-geo441c/blob/main/Vector-Analysis/Hotspot-Map.png)
 
 ## Raster Analysis
 - [Change in NDVI](https://github.com/Blayne157/gis-project-portfolio-geo441c/blob/main/Raster-Analysis/week_10_raster_analysis_Thomas_fire.ipynb)
