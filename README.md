@@ -19,7 +19,7 @@ Blayne Myrick
 - [Change in NDVI](https://github.com/Blayne157/gis-project-portfolio-geo441c/blob/main/Raster-Analysis/week_10_raster_analysis_Thomas_fire.ipynb)
 
 ## Spatial Analysis
-- [Cholera spread in Soho, London](https://github.com/Blayne157/gis-project-portfolio-geo441c/blob/main/Spatial-Analysis/Copy_of_week_11_assignment_template.ipynb)
+- [Cholera spread in Soho, London](https://github.com/Blayne157/gis-project-portfolio-geo441c/blob/main/New_Copy_of_week_11_assignment_template.ipynb)
 
 
 ## Web Mapping
