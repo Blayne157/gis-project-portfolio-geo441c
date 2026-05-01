@@ -13,6 +13,7 @@ Blayne Myrick
 
 ## Vector Analysis
 - [Age Index Calculation](https://github.com/Blayne157/gis-project-portfolio-geo441c/blob/main/Vector-Analysis/age-index-mapping.ipynb)
+- [Working with U.S. Census Data for Spatial Analysis](https://github.com/Blayne157/gis-project-portfolio-geo441c/blob/main/Copy_of_week_13_assignment_template.ipynb)
 - ![Hotspot Map](https://github.com/Blayne157/gis-project-portfolio-geo441c/blob/main/Vector-Analysis/Hotspot-Map.png)
 
 ## Raster Analysis
