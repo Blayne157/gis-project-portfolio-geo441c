@@ -28,5 +28,5 @@ Blayne Myrick
 - This [StoryMap collection](https://storymaps.arcgis.com/collections/cda7fecfc3354d47b20bf07d06a08626) contains all maps I made using ArcGIS Online
 
 ## Final
--Project Proposal [https://docs.google.com/presentation/d/1p4JY-E7nHbpoojfpF57NtrP0e9vUDJRX/edit?slide=id.p1#slide=id.p1]
--Final Storymap [https://storymaps.arcgis.com/templates/c73bad8321cc4fa7b55a73a6f49ef54d]
+- Project Proposal [https://docs.google.com/presentation/d/1p4JY-E7nHbpoojfpF57NtrP0e9vUDJRX/edit?slide=id.p1#slide=id.p1]
+- Final Storymap [https://storymaps.arcgis.com/templates/c73bad8321cc4fa7b55a73a6f49ef54d]
